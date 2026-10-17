@@ -1,0 +1,5 @@
+﻿  Simple Paint Program.cpp
+C:\Users\User\Documents\VS 2022 Code\Simple Paint Program\Simple Paint Program.cpp(174,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Documents\VS 2022 Code\Simple Paint Program\Simple Paint Program.cpp(175,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Documents\VS 2022 Code\Simple Paint Program\Simple Paint Program.cpp(584,32): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Simple Paint Program.vcxproj -> C:\Users\User\Documents\VS 2022 Code\Simple Paint Program\x64\Debug\Simple Paint Program.exe
